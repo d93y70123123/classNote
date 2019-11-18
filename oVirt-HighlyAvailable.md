@@ -24,6 +24,7 @@ MEM：8G
 ## 如何在oVirt中開啟 Highly Available
 
 
+
 #### 參考資料  
 [1]Highly Available VMs：oVirt high avalhttps://www.ovirt.org/develop/ha-vms.html
 [2]Enabling High Availability Service with oVirt Virtualization and CephFS：https://indico.cern.ch/event/567550/papers/2627178/files/5648-ACAT2017_Proceedings_v3.1.pdf
