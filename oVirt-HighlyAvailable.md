@@ -22,8 +22,9 @@ MEM：8G
 如果 oVirt-engine 發現第一台主機可以重新通電並開機，那 oVirt-engine 就會相第一台主機開啟，並重新將其加入叢集裡。
 
 ## 如何在oVirt中開啟 Highly Available
-進度到oVirt管理頁面後在Compute的分類裏頭任意點選一台虛擬機，接著按右上角的Edit按鈕會彈出視窗，在彈出視窗左下角有[Show Advanced Options]按鈕，  
-按下去後就會出現[High Avaliability]，點進分類後就可以針對該主機做設定了。
+進度到oVirt管理頁面後在Compute的分類裏頭任意點選一台虛擬機，接著按右上角的Edit按鈕會彈出視窗，在彈出視窗左下角有[Show Advanced Options]按鈕，
+按下去後就會出現[High Avaliability]，點進分類後就可以針對該主機做設定了。  
+![oVirtHA](https://github.com/d93y70123123/classNote/blob/master/oVirt-highavalible.jpg)
 
 
 
